@@ -19,6 +19,12 @@ Codesnacks is a rails web app to pick up coding knowledge in small, digestible "
 ### API Documentation
 [Docs](https://bump.sh/codesnacks/hub/codesnacks)
 
+### Repositories
+
+- [Frontend](https://github.com/CodingOnTheJohn/consultancyFE)
+- [Backend](https://github.com/CodingOnTheJohn/codingonthejohnBE)
+- [Lessons MicroService](https://github.com/CodingOnTheJohn/codinglessonsapi)
+
 ### Members
 - Noah Durbin
   - [Github](https://github.com/noahdurbin)
