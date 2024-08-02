@@ -1,4 +1,6 @@
 # CodeSnacks
+![Home Page](https://github.com/CodingOnTheJohn/.github/blob/main/profile/ConsultancyFe.jpeg)
+
 
 When you want to learn something new or get a refresher and keep your skills sharp
 When the day got away from you and you'd still like to get some light studying in without opening your laptop or getting down a rabbit hole of notes or a full meal of lessons, have a snack!
