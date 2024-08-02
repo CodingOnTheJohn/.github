@@ -4,7 +4,7 @@
 When you want to learn something new or get a refresher and keep your skills sharp
 When the day got away from you and you'd still like to get some light studying in without opening your laptop or getting down a rabbit hole of notes or a full meal of lessons, have a snack!
 
-![Home Page](https://github.com/CodingOnTheJohn/.github/blob/main/profile/ConsultancyFe.jpeg)
+![Home Page](https://github.com/CodingOnTheJohn/.github/blob/main/profile/ConsultancyFe%20%C2%B7%209.33pm%20%C2%B7%2008-01.jpeg)
 
 Codesnacks is a rails web app to pick up coding knowledge in small, digestible "Snacks." We currently have built CodeSnacks with Ruby, Javascript, and Interview questions and answers.
 
