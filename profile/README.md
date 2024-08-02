@@ -15,7 +15,7 @@ Codesnacks is a rails web app to pick up coding knowledge in small, digestible "
 - Users Authentication Backend
 - Open AI API integration
 - a texting service to remind you to to have a snack
-- Bootstrap Styling
+- Bootstrap Styling with responsive design
 
 ### API Documentation
 [Docs](https://bump.sh/codesnacks/hub/codesnacks)
